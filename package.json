@@ -1,0 +1,25 @@
+{
+  "name": "eslint-config-humans-frontend",
+  "version": "1.0.0",
+  "description": "Humans front-end eslint configure.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/humans-corp/eslint-config-humans-frontend.git"
+  },
+  "author": "hoons0131@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/humans-corp/eslint-config-humans-frontend/issues"
+  },
+  "homepage": "https://github.com/humans-corp/eslint-config-humans-frontend#readme",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^4.7.0",
+    "@typescript-eslint/parser": "^4.7.0",
+    "eslint": "^7.13.0",
+    "eslint-plugin-react": "^7.21.5"
+  }
+}
