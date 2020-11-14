@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/humans-corp/eslint-config-humans-frontend.git"
   },
-  "author": "hoons0131@gmail.com",
+  "author": "martinyounghoonkim <hoons0131@gmail.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/humans-corp/eslint-config-humans-frontend/issues"
