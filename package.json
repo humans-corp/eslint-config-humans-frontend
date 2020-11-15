@@ -4,14 +4,17 @@
   "description": "Humans front-end eslint configure.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\""
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/humans-corp/eslint-config-humans-frontend.git"
   },
-  "author": "martinyounghoonkim <hoons0131@gmail.com>",
-  "license": "ISC",
+  "keywords": [
+    "eslint"
+  ],
+  "author": "martinyounghoonkim",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/humans-corp/eslint-config-humans-frontend/issues"
   },
