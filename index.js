@@ -21,7 +21,7 @@ module.exports = {
   },
   plugins: ["react", "@typescript-eslint"],
   rules: {
-    "no-console": 0,
+    "no-console": "warn",
     indent: ["error", 2],
     "arrow-parens": ["error", "as-needed"],
     "brace-style": ["error", "1tbs"],
@@ -35,8 +35,8 @@ module.exports = {
       {
         arrays: "always-multiline",
         objects: "always-multiline",
-        imports: "never",
-        exports: "never",
+        imports: "always-multiline",
+        exports: "always-multiline",
         functions: "never",
       },
     ],

@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-humans-frontend",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Humans front-end eslint configure.",
   "main": "index.js",
   "scripts": {
