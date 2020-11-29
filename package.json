@@ -1,9 +1,10 @@
 {
   "name": "eslint-config-humans-frontend",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Humans front-end eslint configure.",
   "main": "index.js",
   "scripts": {
+    "publish": "npm publish",
     "test": "echo \"Error: no test specified\""
   },
   "repository": {
