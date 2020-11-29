@@ -22,7 +22,7 @@ module.exports = {
   plugins: ["react", "@typescript-eslint"],
   rules: {
     "no-console": "warn",
-    indent: ["error", 2],
+    indent: ["error", 2, { SwitchCase: 1 }],
     "arrow-parens": ["error", "as-needed"],
     "brace-style": ["error", "1tbs"],
     "array-element-newline": ["error", "consistent"],
