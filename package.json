@@ -1,11 +1,11 @@
 {
   "name": "eslint-config-humans-frontend",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "Humans front-end eslint configure.",
   "main": "index.js",
+  "files": ["index.js", "prettier.config.js"],
   "scripts": {
-    "publish": "npm publish",
-    "test": "echo \"Error: no test specified\""
+    "publish": "npm publish"
   },
   "repository": {
     "type": "git",
